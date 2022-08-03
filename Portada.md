@@ -10,9 +10,9 @@
 ## Unidades de trabajo del curso
 [UT_1 Introducción](ut_1/ut_1.md)
 
-[Anexos](anexos/)
-
 [Licencia](https://github.com/csanjuanp-ies/blender/blob/main/LICENSE)
 
 ## Bibliografía
-- Python 3 Los fundamentos del lenguaje (3a edición), Sébastien CHAZALLET, Ediciones ENI, ISBN 978-2-409-02478-8
+- Blender 3D By Example: A project-based guide to learning the latest Blender 3D, EEVEE rendering engine, and Grease Pencil, 2nd Edition, ISBN 978-1789612561
+- The Complete Guide to Blender Graphics Computer Modeling & Animation: Computer Modeling & Animation, 7ed, ISBN 978-1032121673
+- Cycles Encyclopedia X, https://store.blender.org/product/cycles-encyclopedia/
