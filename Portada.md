@@ -8,7 +8,7 @@
 ![](Portada.png)
 
 ## Unidades de trabajo del curso
-[UT_1 Introducción](ut_1/ut_1.md)
+[UT_1 Introducción](ut_1/ut_1_01.md)
 
 [Licencia](https://github.com/csanjuanp-ies/blender/blob/main/LICENSE)
 
